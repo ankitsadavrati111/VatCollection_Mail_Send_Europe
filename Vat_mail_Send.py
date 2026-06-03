@@ -5,8 +5,8 @@ import os
 from deep_translator import GoogleTranslator
 
 # CONFIG
-EMAIL_USER = "eu.accounting@mobilesentrix.com"
-EMAIL_PASS = "ustvzpsntjhkfwws"
+EMAIL_USER = "xyz@gmail.com"
+EMAIL_PASS = "88888888"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
