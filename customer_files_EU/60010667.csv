@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60010667,Sales Order,600120152,INV-100053446,03/06/26 19:07,03/06/26 16:24,2026-03-06,03/06/26 16:54,03/06/26 13:08,Amer BASSIL,Amer BASSIL,Credit Card (Brain Tree),DHL Economy Select,0,0.0,601.9,601.9,complete,,Bondy,FR,93140,20.0,Mirkaz

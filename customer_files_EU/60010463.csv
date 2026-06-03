@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60010463,Sales Order,600118521,INV-100057950,03/17/26 20:01,03/17/26 19:29,2026-03-17,03/17/26 19:36,03/17/26 14:08,Luis Miguel Rodriguez Suarez,Mobix3D,Credit Card (Brain Tree),DHL Express Worldwide,0,6.95,33.97,40.92,complete,,Málaga,ES,29010,21.0,Mirkaz

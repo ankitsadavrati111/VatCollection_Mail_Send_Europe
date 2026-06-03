@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60005897,Sales Order,600118437,INV-100053177,03/05/26 19:53,03/05/26 17:37,2026-03-05,03/05/26 17:44,03/05/26 13:55,Fabio Serafini,none,PayPal (Brain Tree),DHL Express Worldwide,0,6.95,82.77,89.72,complete,,Livorno,IT,57123,22.0,Fabio

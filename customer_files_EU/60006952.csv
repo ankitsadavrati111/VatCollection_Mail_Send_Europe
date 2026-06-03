@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60006952,Sales Order,600121854,INV-100054104,03/09/26 19:25,03/09/26 15:25,2026-03-09,03/09/26 15:31,03/09/26 13:28,Andrea  Speziale ,Andrea Speziale ,PayPal (Brain Tree),DHL Economy Select,0,4.95,25.6,30.55,complete,,Province of Pescara,IT,65125,22.0,Fabio

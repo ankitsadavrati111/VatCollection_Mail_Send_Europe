@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60004547,Sales Order,600118308,INV-100057450,03/17/26 18:23,03/17/26 14:04,2026-03-17,03/17/26 14:26,03/17/26 12:25,jaouad ouled si moh,simophone,Credit Card (Brain Tree),FedEx Regional Economy,0,4.95,77.15,82.10000000000001,complete,,orange,FR,84100,20.0,Mirkaz

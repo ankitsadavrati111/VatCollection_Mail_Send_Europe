@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60009101,Sales Order,600095753,INV-100053755,03/09/26 18:19,03/07/26 18:31,2026-03-07,03/08/26 14:13,03/09/26 12:20,Eduardo Chiosi,dudu ,Credit Card (Brain Tree),FedEx Regional Economy,0,4.95,13.06,18.01,complete,,napoli,IT,80131,22.0,Andrea

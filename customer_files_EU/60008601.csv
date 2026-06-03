@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60008601,Sales Order,600090231,INV-100053786,03/09/26 18:24,03/08/26 16:22,2026-03-08,03/08/26 16:24,03/09/26 12:25,Nelio Zahn,Nelio’s Handy Shop,PayPal (Brain Tree),FedEx Priority,0,6.95,49.88,56.830000000000005,complete,,Hemsloh,DE,49453,19.0,Vahit Ugur

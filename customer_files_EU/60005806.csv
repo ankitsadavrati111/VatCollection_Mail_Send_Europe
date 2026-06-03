@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60005806,Sales Order,600108593,INV-100059548,03/23/26 18:11,03/21/26 14:27,2026-03-21,03/22/26 14:06,03/23/26 12:15,Djamel ADJROUD,DJAMEL ADJROUD,PayPal (Brain Tree),FedEx Regional Economy,0,4.95,4.36,9.31,complete,,Montfermeil,FR,93370,20.0,Mirkaz

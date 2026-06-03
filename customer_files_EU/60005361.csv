@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60005361,Sales Order,600023605,INV-100049581,02/25/26 18:05,02/25/26 17:35,2026-02-25,02/25/26 17:40,02/25/26 12:07,Fabrizio Murena,Techstore,PayPal (Brain Tree),DHL Express Worldwide,0,6.95,10.62,17.57,complete,,Arce,IT,03032,22.0,Fabio

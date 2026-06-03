@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60006495,Sales Order,600119309,INV-100053854,03/09/26 18:46,03/09/26 15:56,2026-03-09,03/09/26 16:04,03/09/26 12:46,raffaele pietrasanta,Videoservice,PayPal (Brain Tree),FedEx Priority,0,6.95,179.7,186.64999999999998,complete,,Province of Foggia,IT,71122,22.0,Fabio

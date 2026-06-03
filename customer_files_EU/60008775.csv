@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60008775,Sales Order,600118069,INV-100053377,03/06/26 18:30,03/06/26 11:36,2026-03-06,03/06/26 13:03,03/06/26 12:36,Aaron Typpö,Ylivieska,Credit Card (Brain Tree),FedEx Priority,0,6.95,20.44,27.39,complete,,Ylivieska,FI,84100,25.5,Eddie

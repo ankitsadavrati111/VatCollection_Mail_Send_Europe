@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60010248,Sales Order,600130754,INV-100058505,03/18/26 20:02,03/18/26 18:48,2026-03-18,03/18/26 18:51,03/18/26 14:06,Adeel Khan Akhtar,Access Store,Credit Card (Brain Tree),DHL Express Worldwide,0,6.95,151.36,158.31,complete,,Badalona,ES,08913,21.0,Mirkaz

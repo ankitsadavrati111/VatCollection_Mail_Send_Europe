@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60004400,Sales Order,600114898,INV-100053785,03/09/26 18:24,03/08/26 15:56,2026-03-08,03/08/26 16:24,03/09/26 12:25,Weslay Maury,Novatech,Credit Card (Brain Tree),FedEx Regional Economy,0,4.95,5.29,10.24,complete,,nogent le rotrou,FR,28400,20.0,Mirkaz

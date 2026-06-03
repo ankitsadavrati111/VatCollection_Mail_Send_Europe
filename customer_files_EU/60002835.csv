@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60002835,Sales Order,600121155,INV-100054225,03/09/26 19:51,03/09/26 17:07,2026-03-09,03/09/26 17:17,03/09/26 13:52,FERTE BENJAMIN,THE PHONE TRUCK,Credit Card (Brain Tree),DHL Economy Select,0,4.95,70.17,75.12,complete,,MARMANDE,FR,47200,20.0,Mirkaz

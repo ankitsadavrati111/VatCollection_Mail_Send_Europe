@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60002730,Sales Order,600112332,INV-100058181,03/18/26 18:48,03/18/26 17:01,2026-03-18,03/18/26 17:06,03/18/26 12:50,OLIVIER FACQUEUR,CYBERGATE02,Credit Card (Brain Tree),FedEx Priority,0,6.95,10.19,17.14,complete,,HIRSON,FR,02500,20.0,Mirkaz

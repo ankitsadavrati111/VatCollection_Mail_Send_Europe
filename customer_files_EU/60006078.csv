@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60006078,Sales Order,600045346,INV-100033158,01/12/26 19:03,01/11/26 03:52,2026-01-11,01/12/26 14:00,01/12/26 13:05,Leny  Beauvais ,Oligo,gene_braintree_applepay,FedEx Priority,0,6.95,60.76,67.71,complete,,Rumilly-en-Cambrésis,FR,59281,20.0,Mirkaz

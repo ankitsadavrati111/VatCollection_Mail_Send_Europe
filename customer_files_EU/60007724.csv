@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60007724,Sales Order,600107550,INV-100058201,03/18/26 18:52,03/18/26 14:39,2026-03-18,03/18/26 14:46,03/18/26 12:55,gerald houche,pc paradise,Credit Card (Brain Tree),FedEx Priority,0,6.95,21.25,28.2,complete,,auchel,FR,62260,20.0,Mirkaz

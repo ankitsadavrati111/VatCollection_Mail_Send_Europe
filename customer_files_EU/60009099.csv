@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60009099,Sales Order,600117642,INV-100053001,03/05/26 19:00,03/05/26 17:23,2026-03-05,03/05/26 17:32,03/05/26 13:08,Vladislav Kovalev,TipTop telefons,Credit Card (Brain Tree),FedEx Priority,0,6.95,84.11,91.06,complete,,Liepāja,LV,3401,21.0,Yaroslava

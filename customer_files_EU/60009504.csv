@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60009504,Sales Order,600117659,INV-100058081,03/18/26 18:25,03/17/26 21:41,2026-03-17,03/18/26 12:58,03/18/26 12:30,Tien Phong DAO,Screenfix,Credit Card (Brain Tree),FedEx Priority,0,6.95,62.45,69.4,complete,,Paris,FR,75013,20.0,Mirkaz

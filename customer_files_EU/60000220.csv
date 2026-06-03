@@ -1,0 +1,3 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60000220,Sales Order,600093152,INV-100052892,03/05/26 18:37,03/03/26 18:23,2026-03-03,03/05/26 18:12,03/05/26 12:40,Bryan Lengjel,iBryanPhones,Credit Card (Brain Tree),FedEx Priority,0,6.95,187.57,194.51999999999998,complete,,Hayange,FR,57700,20.0,Mirkaz
+60000220,Sales Order,600118143,,,03/16/26 18:34,2026-03-16,,,Bryan Lengjel,iBryanPhones,Credit Card (Brain Tree),Reserve Stock For Future,0,0.0,20.2,20.2,unapprove,,Hayange,FR,57700,20.0,Mirkaz

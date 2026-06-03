@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60005581,Sales Order,600116997,INV-100053450,03/06/26 19:08,03/06/26 01:47,2026-03-06,03/06/26 13:55,03/06/26 13:12,Mael Boniface,BNF TECH,PayPal (Brain Tree),DHL Express Worldwide,0,6.95,70.33,77.28,complete,,Vélizy-Villacoublay,FR,78140,20.0,

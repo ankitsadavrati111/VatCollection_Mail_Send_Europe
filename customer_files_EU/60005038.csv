@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60005038,Sales Order,600118498,INV-100054575,03/10/26 18:34,03/10/26 08:41,2026-03-10,03/10/26 13:10,03/10/26 12:40,Younes Beldjoudi,Repair iFavone,Credit Card (Brain Tree),FedEx Priority Express,0,9.95,131.19,141.14,complete,,Feyzin,FR,69320,20.0,Mirkaz

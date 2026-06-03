@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60003479,Sales Order,600109766,INV-100055212,03/11/26 18:43,03/11/26 16:37,2026-03-11,03/11/26 17:06,03/11/26 12:46,Jérémie COCKEDEY,Smart Up,Credit Card (Brain Tree),FedEx Priority,0,6.95,38.09,45.040000000000006,complete,,Kertzfeld,FR,67230,20.0,Mirkaz

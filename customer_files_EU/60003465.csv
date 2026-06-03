@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60003465,Sales Order,600120286,INV-100054804,03/10/26 19:28,03/10/26 15:53,2026-03-10,03/10/26 16:14,03/10/26 13:32,Shaker Shaaban,Shekphone,Credit Card (Brain Tree),DHL Express Worldwide,0,6.95,150.81,157.76,complete,,Saint-Genis-Pouilly,FR,01630,20.0,Mirkaz

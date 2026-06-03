@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60003568,Sales Order,600005805,INV-100054325,03/09/26 20:02,03/09/26 18:19,2026-03-09,03/09/26 18:27,03/09/26 14:08,MOHAMMAD  ORABI,Skyfone Hørsholm ,Credit Card (Brain Tree),DHL Express Worldwide,0,6.95,123.21,130.16,complete,,Hørsholm,DK,2970,25.0,Eddie

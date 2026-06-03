@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60003964,Sales Order,600117939,INV-100052985,03/05/26 18:58,03/05/26 17:09,2026-03-05,03/05/26 17:13,03/05/26 13:00,ilias rhazi,"Hello Phone , Vente , Achat",Credit Card (Brain Tree),FedEx Priority,0,6.95,192.75,199.7,complete,,Toulouse,FR,31100,20.0,Mirkaz

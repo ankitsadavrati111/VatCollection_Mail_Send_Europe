@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60002875,Sales Order,600043475,INV-100037898,01/26/26 18:52,01/26/26 16:36,2026-01-26,01/26/26 16:53,01/26/26 12:56,Mario Pasta,MP Repair,gene_braintree_applepay,FedEx Economy,0,4.95,4.54,9.49,complete,,Rousies,FR,59131,20.0,Mirkaz

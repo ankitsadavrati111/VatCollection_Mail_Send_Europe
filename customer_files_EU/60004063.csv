@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60004063,Sales Order,600094181,INV-100053906,03/09/26 18:53,03/09/26 17:06,2026-03-09,03/09/26 17:16,03/09/26 12:56,Omar GHORAYEB,ATELIER NUMÉRIQUE,Internal Credit,FedEx Priority,0,6.95,54.86,61.81,complete,,Pont-Saint-Esprit,FR,30130,20.0,Mirkaz

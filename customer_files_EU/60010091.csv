@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60010091,Sales Order,600109563,INV-100055570,03/11/26 20:05,03/11/26 17:20,2026-03-11,03/11/26 17:39,03/11/26 14:08,Khvicha SHAROEV,Taxiphone ddn,Credit Card (Brain Tree),DHL Economy Select,0,4.95,43.73,48.68,complete,,Dourdan,FR,91410,20.0,

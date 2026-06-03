@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60007582,Sales Order,600100428,INV-100053627,03/06/26 21:03,03/06/26 20:15,2026-03-06,03/06/26 20:25,03/06/26 15:05,bjorn Boudry,Istuffrepair,localpayment_bancontact,PostNL Standard Delivery,0,6.95,41.61,48.56,complete,,Menen,BE,8930,21.0,Zoey

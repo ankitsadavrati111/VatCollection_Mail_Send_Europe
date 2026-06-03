@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60002976,Sales Order,600119045,INV-100057267,03/16/26 20:13,03/16/26 18:08,2026-03-16,03/16/26 18:11,03/16/26 14:16,Kevin FERRER,JK-Repair,Credit Card (Brain Tree),DHL Economy Select,0,4.95,53.42,58.370000000000005,complete,,Le Coteau,FR,42120,20.0,Mirkaz

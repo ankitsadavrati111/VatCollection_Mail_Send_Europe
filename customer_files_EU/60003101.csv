@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60003101,Sales Order,600114359,INV-100056372,03/13/26 18:49,03/13/26 12:24,2026-03-13,03/13/26 13:12,03/13/26 12:50,Yassin SABI,Mister Phone 91,Credit Card (Brain Tree),FedEx Priority,0,6.95,50.39,57.34,complete,,ÉTRÉCHY,FR,91580,20.0,Mirkaz

@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60010772,Sales Order,600121634,INV-100054183,03/09/26 19:35,03/09/26 11:11,2026-03-09,03/09/26 13:12,03/09/26 13:36,Gaetano Giongrandi,Gaetano Informatica,PayPal (Brain Tree),DHL Economy Select,0,4.95,58.39,63.34,complete,,Cassino,IT,03043,22.0,Fabio

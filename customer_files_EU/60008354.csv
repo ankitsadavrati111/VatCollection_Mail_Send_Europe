@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60008354,Sales Order,600113982,INV-100056953,03/16/26 19:10,03/16/26 17:29,2026-03-16,03/16/26 17:32,03/16/26 13:12,Marius Pitirici,Reparatii Bacau,Internal Credit,FedEx Priority,0,6.95,214.88,221.82999999999998,complete,Județul Bacău,Bacău,RO,600265,21.0,Alesia 

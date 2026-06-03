@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60004494,Sales Order,600102596,INV-100058840,03/19/26 19:24,03/19/26 15:08,2026-03-19,03/19/26 15:13,03/19/26 13:25,Clement RICHARD,ctechs,PayPal (Brain Tree),DHL Economy Select,0,4.95,92.53,97.48,complete,,Soullans,FR,85300,20.0,Mirkaz

@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60002154,Sales Order,600117317,INV-100054641,03/10/26 18:53,03/10/26 15:43,2026-03-10,03/10/26 16:27,03/10/26 12:55,antonio delli bovi,antonio delli bovi,PayPal (Brain Tree),FedEx Regional Economy,0,4.95,31.45,36.4,complete,,bellizzi,IT,84092,22.0,Andrea

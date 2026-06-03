@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60010341,Sales Order,600114336,INV-100051179,03/02/26 19:13,02/28/26 15:40,2026-02-28,03/02/26 16:38,03/02/26 13:15,Mahmoud Youssef  Jaziri ,MAC PHONE SERVICES,Credit Card (Brain Tree),FedEx Regional Economy,0,4.95,17.19,22.14,complete,,Lyon,FR,69004,20.0,Mirkaz

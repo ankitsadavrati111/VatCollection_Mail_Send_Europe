@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60010822,Sales Order,600122870,INV-100054903,03/10/26 19:52,03/10/26 13:33,2026-03-10,03/10/26 13:39,03/10/26 13:55,VINCENT PINEL,VINC'ELECTRONIC,Credit Card (Brain Tree),DHL Economy Select,0,4.95,30.85,35.800000000000004,complete,,HERIC,FR,44810,20.0,Mirkaz

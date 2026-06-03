@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60006806,Sales Order,600118711,INV-100054796,03/10/26 19:28,03/10/26 12:50,2026-03-10,03/10/26 13:15,03/10/26 13:32,Jarkko Tirroniemi,Jaken Luuripaja,Credit Card (Brain Tree),DHL Express Worldwide,0,6.95,155.46,162.41,complete,,Tornio,FI,95410,25.5,Iiris Elina 

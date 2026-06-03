@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60004855,Sales Order,600084947,INV-100055220,03/11/26 18:43,03/11/26 16:15,2026-03-11,03/11/26 16:17,03/11/26 12:46,kevin leclercq,KevinTech&Co,Credit Card (Brain Tree),FedEx Priority,0,6.95,5.09,12.04,complete,,Sacy-le-Grand,FR,60700,20.0,Mirkaz

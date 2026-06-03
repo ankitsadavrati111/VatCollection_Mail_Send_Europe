@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60010449,Sales Order,600116041,INV-100056482,03/13/26 19:33,03/13/26 18:08,2026-03-13,03/13/26 18:10,03/13/26 13:36,Samir MEBROUKI,GSM GAME  - Réparation ,PayPal (Brain Tree),DHL Economy Select,0,4.95,78.58,83.53,complete,,Marseille,FR,13006,20.0,Mirkaz

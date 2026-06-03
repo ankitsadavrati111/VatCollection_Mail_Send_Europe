@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60004618,Sales Order,600116000,INV-100053809,03/09/26 18:35,03/09/26 13:56,2026-03-09,03/09/26 14:25,03/09/26 12:35,INFORMATOS HUCHEZ,InforMatos (Ancien Docteur IT),Credit Card (Brain Tree),FedEx Priority,0,6.95,39.75,46.7,complete,,Guichainville,FR,27930,20.0,Mirkaz

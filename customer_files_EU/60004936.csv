@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60004936,Sales Order,600120647,INV-100053758,03/09/26 18:19,03/07/26 10:47,2026-03-07,03/08/26 14:11,03/09/26 12:20,Gebro Alp,Handydoktor,PayPal (Brain Tree),FedEx Priority,0,6.95,143.26,150.20999999999998,complete,,Bad Hersfeld,DE,36251,19.0,Vahit Ugur

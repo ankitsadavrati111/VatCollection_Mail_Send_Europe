@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60009365,Sales Order,600107997,INV-100056314,03/13/26 18:29,03/12/26 20:57,2026-03-12,03/13/26 13:05,03/13/26 12:30,Bathily  Harouna ,Hbtech ,Credit Card (Brain Tree),FedEx Regional Economy,0,4.95,60.65,65.6,complete,,Verrières-le-Buisson,FR,91370,20.0,Mirkaz

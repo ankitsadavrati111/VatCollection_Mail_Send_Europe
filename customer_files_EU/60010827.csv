@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60010827,Sales Order,600123067,INV-100054829,03/10/26 19:31,03/10/26 12:06,2026-03-10,03/10/26 13:15,03/10/26 13:32,Pedro Finamore,Pedro Finamore,mbway,DHL Express Worldwide,0,6.95,71.41,78.36,complete,,Estoril,PT,2765-496,23.0,Mirkaz

@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60003268,Sales Order,600117328,INV-100057800,03/17/26 19:30,03/17/26 16:41,2026-03-17,03/17/26 16:59,03/17/26 13:32,Hasan Ozugur,Dunois phone,Credit Card (Brain Tree),DHL Economy Select,0,4.95,11.51,16.46,complete,,La Chapelle du Noyer,FR,28200,20.0,Mirkaz

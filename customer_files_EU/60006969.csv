@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60006969,Sales Order,600119349,INV-100054327,03/09/26 20:02,03/09/26 17:42,2026-03-09,03/09/26 17:44,03/09/26 14:08,Antonio Komljenovic,Mobitelo Handyreparatur IT,PayPal (Brain Tree),DHL Express Worldwide,0,6.95,94.2,101.15,complete,,Düren,DE,52351,19.0,Nina

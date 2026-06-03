@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60008023,11,600114656,INV-100054359,03/09/26 20:31,03/01/26 13:49,2026-03-01,03/09/26 12:10,03/09/26 20:31,Francisco Gomes,Irepair Phone,Credit Card (Brain Tree),FedEx Priority Express,0,0.0,662.64,662.64,complete,,Mont Près Chambord ,FR,41250,20.0,Leandro

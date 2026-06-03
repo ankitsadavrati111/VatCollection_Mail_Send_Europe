@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60010424,Sales Order,600120565,INV-100054124,03/09/26 19:28,03/09/26 16:30,2026-03-09,03/09/26 16:34,03/09/26 13:32,DOMENICO PALO,Ripariamocisu,PayPal (Brain Tree),DHL Express Worldwide,0,6.95,25.08,32.03,complete,,Salerno,IT,84129,22.0,Andrea

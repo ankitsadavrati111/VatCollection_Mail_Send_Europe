@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60002661,Sales Order,600113610,INV-100053505,03/06/26 19:18,03/06/26 15:50,2026-03-06,03/06/26 15:58,03/06/26 13:20,BASTIEN DEMARGNE,Co'Ordi,Credit Card (Brain Tree),DHL Economy Select,0,4.95,82.67,87.62,complete,,Guéret,FR,23000,20.0,Mirkaz

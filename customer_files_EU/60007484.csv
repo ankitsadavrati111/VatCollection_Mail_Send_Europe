@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60007484,Sales Order,600062856,INV-100041541,02/04/26 17:38,02/04/26 12:43,2026-02-04,02/04/26 14:47,02/04/26 11:40,Matteo Romano,Mind The Gap S.r.l.,Credit Card (Brain Tree),DHL Economy Select,0,4.95,55.08,60.03,complete,,Rome,IT,00181,22.0,Fabio

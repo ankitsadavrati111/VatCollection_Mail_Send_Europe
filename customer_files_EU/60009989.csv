@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60009989,Sales Order,600107933,INV-100056990,03/16/26 19:14,03/16/26 17:13,2026-03-16,03/16/26 17:19,03/16/26 13:16,JOSE PEREZ,Pixie Phone,Credit Card (Brain Tree),FedEx Priority,0,6.95,208.62,215.57,complete,,Les Pennes-Mirabeau,FR,13170,20.0,Mirkaz

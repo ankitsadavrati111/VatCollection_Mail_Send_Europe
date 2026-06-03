@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60004448,11,600114461,INV-100053551,03/06/26 19:25,02/28/26 18:44,2026-02-28,03/06/26 13:07,03/06/26 13:30,Tony Daniels,Resellio,Bank Transfer,DHL Economy Select,0,4.95,10.4,15.350000000000001,complete,,Wellen,BE,3830,21.0,Jens

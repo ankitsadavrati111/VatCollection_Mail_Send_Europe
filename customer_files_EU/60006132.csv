@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60006132,Sales Order,600036596,INV-100053721,03/09/26 18:15,03/08/26 02:36,2026-03-08,03/08/26 14:16,03/09/26 12:20,Albian Haliti,Albian Haliti,PayPal (Brain Tree),FedEx Regional Economy,0,4.95,41.96,46.910000000000004,complete,,Salzburg,AT,5020,20.0,Vahit Ugur

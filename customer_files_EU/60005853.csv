@@ -1,0 +1,2 @@
+Customer ID,Order Type,Order #,Invoice Number(s),Invoice Date(s),Purchased On,Manual Date,Fulfillment Date,Shipped Date,Customer Name,Company,Payment Method,Shipping Method,Tax,Shipping Amount,Subtotal,Grand Total,Status,Shipping State,Shipping City,Shipping Country,Shipping Zipcode,Tax Percentage,Sales Manager
+60005853,Sales Order,600039355,INV-100053406,03/06/26 18:42,03/05/26 19:12,2026-03-05,03/06/26 13:03,03/06/26 12:45,Pierfrancesco Cioci,Safe and Sound SRL,PayPal (Brain Tree),FedEx Priority,0,6.95,15.82,22.77,complete,,Pofi,IT,03026,22.0,Fabio
